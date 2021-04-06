@@ -1,0 +1,13 @@
+com\example\products\repository\CategoriesRepositories.class
+com\example\products\ProductsApplication.class
+com\example\products\model\Reviews.class
+com\example\products\repository\BrandsRepository.class
+com\example\products\model\Products.class
+com\example\products\model\Categories.class
+com\example\products\config\SwaggerConfig.class
+com\example\products\resource\ProductResource.class
+com\example\products\repository\ReviewsRepository.class
+com\example\products\repository\ProductsRepository.class
+com\example\products\config\MyFilter.class
+com\example\products\model\Brands.class
+com\example\products\config\Constants.class
